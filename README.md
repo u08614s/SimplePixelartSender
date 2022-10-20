@@ -1,2 +1,5 @@
 # SimplePixelartSender
-This project is pixelart builder for minecraft wiiu edition.
+シンプルなドット絵作成ツールです
+###
+EXEはこっち
+https://github.com/u08614s/SimplePixelartSender/releases/tag/wiiu
